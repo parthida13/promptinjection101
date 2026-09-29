@@ -1,6 +1,9 @@
 # Prompt Injection 101
 Prompt Injection game where your objective is to jailbreak the AI. Levels 1-5. Level 5 is virtually impossible.
 
+#To start, download this or clone this repo to vs code, then run main.py by python3 main.py
+
+
 CHANGES TO CONSIDER: I've lost a lot of previous data which was really good, expect bugs and other things because my laptop has gotten too old to keep coding that's why there might be some bugs in some libraries.
 
 REQUIREMENTS:
